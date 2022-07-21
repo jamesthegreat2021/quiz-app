@@ -61,7 +61,7 @@ var questionIndex = 0;
         appBar: AppBar(
           title: 
           Text('quiz application'),),
-        
+        //this stands for the body of the scaffold
         body: questionIndex<questionList.length ? Column(children: [
           
           Container(

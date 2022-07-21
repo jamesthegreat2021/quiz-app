@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
       ]
     }
   ];
-
+  // var index has the main functions of updating the index of the questions !!
 var questionIndex = 0; 
 
   void answerQuestions (){

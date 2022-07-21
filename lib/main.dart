@@ -38,6 +38,7 @@ class _MyAppState extends State<MyApp> {
 var questionIndex = 0; 
 
   void answerQuestions (){
+    print('james will have to love himself');
     setState(() {
       questionIndex = questionIndex + 1;
     });

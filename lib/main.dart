@@ -51,6 +51,7 @@ var questionIndex = 0;
   }
 
   @override
+  //override is a very cool feature to be used !!
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'quiz application',

@@ -39,6 +39,7 @@ var questionIndex = 0;
 
   void answerQuestions (){
     print('james will have to love himself');
+    print('james once called himself as james the great');
     setState(() {
       questionIndex = questionIndex + 1;
     });
